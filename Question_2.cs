@@ -2,7 +2,7 @@ using System.Linq;
 
 namespace Solution
 {
-    public class Solution2
+    public class Solution
     {
         public int solution(int X, int[] A)
         {
